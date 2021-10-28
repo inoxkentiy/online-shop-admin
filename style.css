@@ -1,0 +1,19 @@
+#list {
+    text-align: center;
+    display: flex;
+    margin: 15px;
+}
+
+body {
+    background-image: url(https://cdn.friendlystock.com/wp-content/uploads/2019/10/5-shopping-mall-interior-background-cartoon.jpg);
+}
+
+.info_block {
+    border: 6px white dashed;
+    height: 200px;
+    font-size: 18px;
+    font-size: larger;
+    width: 200px;
+    
+    margin: 15px;
+}
